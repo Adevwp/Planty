@@ -24,3 +24,8 @@ h2, h3 {
 h3 {
     font-weight: 700;
 }
+
+/*Contact form*/
+#wpforms-submit-226 {
+    background-color: #E0B9B4;
+}
