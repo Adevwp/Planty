@@ -14,11 +14,11 @@ h1, h2 {
 }
 
 h1 {
-    font-size : 2,375em;
+    font-size : 38px;
 }
 
 h2, h3 {
-    font-size : 1,875em;
+    font-size : 30px;
 }
 
 h3 {
@@ -26,6 +26,12 @@ h3 {
 }
 
 /*Contact form*/
-#wpforms-submit-226 {
+.wpcf7-submit  {
     background-color: #E0B9B4;
+    color: white;
+}
+
+
+.et_pb_menu--style-inline_centered_logo .et_pb_menu__wrap {
+    justify-content: right;
 }
