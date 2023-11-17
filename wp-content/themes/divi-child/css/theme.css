@@ -26,7 +26,16 @@ h3 {
     font-weight: 700;
 }
 
-/*Contact form*/
+Contact form
+.et_pb_button_envoyer {
+	color: #FFFFFF!important;
+    border-color: #E0B9B4;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #e0b9b4;
+}
+
+
 /*.wpcf7-submit  {
     background-color: #E0B9B4;
     color: white;
