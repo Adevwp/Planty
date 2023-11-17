@@ -4,6 +4,7 @@ body * {
 }
  
 h1, h2, h3 {
+    font-family: 'Syne', sans-serif;
     text-align: center;
 }
 
@@ -26,12 +27,42 @@ h3 {
 }
 
 /*Contact form*/
-.wpcf7-submit  {
+/*.wpcf7-submit  {
     background-color: #E0B9B4;
     color: white;
 }
 
-
 .et_pb_menu--style-inline_centered_logo .et_pb_menu__wrap {
     justify-content: right;
 }
+
+.cp7-comand:after {
+        content:"\0020";
+        display:block;
+        height:0;
+        clear:both;
+        visibility:hidden;
+        overflow:hidden;
+        margin-bottom:10px;
+}
+     
+.cp7-comand {
+        display:block;
+}
+
+.cp7-title {
+    font-size: 30px;
+    color: white;
+}
+
+#cp7-left {
+    border-right: 1px solid white;
+    width: 47%;
+    float: left;
+    margin-right:6%;
+}
+
+#cp7-right {
+    width: 47%;
+    float: right;
+  }*/
