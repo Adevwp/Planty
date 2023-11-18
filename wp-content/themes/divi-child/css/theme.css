@@ -1,4 +1,5 @@
-/*Police Syne apply to all body*/
+/* The CSS was customized in WordPress > Divi > Theme Options. For any updates or additions, do so in the same place.*/
+/*Police Syne apply to all body
 body * {
     font-family: 'Syne', sans-serif;
 }
@@ -24,54 +25,4 @@ h2, h3 {
 
 h3 {
     font-weight: 700;
-}
-
-Contact form
-.et_pb_button_envoyer {
-	color: #FFFFFF!important;
-    border-color: #E0B9B4;
-    border-radius: 5px;
-    font-size: 15px;
-    background-color: #e0b9b4;
-}
-
-
-/*.wpcf7-submit  {
-    background-color: #E0B9B4;
-    color: white;
-}
-
-.et_pb_menu--style-inline_centered_logo .et_pb_menu__wrap {
-    justify-content: right;
-}
-
-.cp7-comand:after {
-        content:"\0020";
-        display:block;
-        height:0;
-        clear:both;
-        visibility:hidden;
-        overflow:hidden;
-        margin-bottom:10px;
-}
-     
-.cp7-comand {
-        display:block;
-}
-
-.cp7-title {
-    font-size: 30px;
-    color: white;
-}
-
-#cp7-left {
-    border-right: 1px solid white;
-    width: 47%;
-    float: left;
-    margin-right:6%;
-}
-
-#cp7-right {
-    width: 47%;
-    float: right;
-  }*/
+} */
